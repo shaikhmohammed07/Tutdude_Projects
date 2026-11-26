@@ -1,0 +1,71 @@
+body{
+    font-family: Arial, sans-serif;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+.username{
+    border-radius: 20px;
+    color: #06a8ff;
+    background-color:#06a8ff6c;
+    font-weight: bold;
+    border: none;
+    margin-top: 10%;
+    height: 50px;
+    width: 110px;
+    margin-right: 20px;
+    
+}
+.book{
+    border-radius: 20px;
+    color: #ffffff;
+    background-color:#06a8ff;
+    font-weight: bold;
+    font-size: 16px;
+    border: none;
+    height: 60px;
+    width: 280px;
+}
+.logo{
+   
+    vertical-align: middle;
+    float: left;
+}
+.mainNav{
+    display: inline-block;
+    margin-top: 2%;
+}
+.mainNav > a{
+    margin: 20px;
+    text-decoration:none;
+    color: rgba(0, 0, 0, 0.621);
+
+}
+.User{
+    vertical-align: middle;
+    float: right;
+}
+.navbar{
+    text-align: center;
+    display: block;
+}
+.leftMain{
+   display: inline;
+   margin-top: 150px; 
+   float: left;
+   width: 50%;
+}
+.rightMain{
+    display: inline;
+    margin-top: 110px; 
+    float: right;
+}
+.mainHead{
+    font-size: 46px;
+    color: #4B5B67;
+
+}
+.desp{
+    font-size: 24px;
+    color: #4B5B67;
+}
